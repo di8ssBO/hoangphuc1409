@@ -75,4 +75,3 @@ print(LogDF.head())
 print("Alarm Time : ")
 print(LogDF[LogDF["Alarm"] == True])
 
-print ("Hello world !")
